@@ -1,7 +1,7 @@
 
 ## 🎓 About Me
 
-Hey! I'm **Yong Sheng**, a Data Science and Analytics undergraduate at the **National University of Singapore (NUS)**.
+Hey! I'm **Yong Sheng**, a Data Science and Analytics undergraduate at the National University of Singapore.
 
 I'm curious about how data helps us make sense of the world. I enjoy uncovering patterns, exploring the stories behind them, and turning complex findings into insights that people can actually use.
 
