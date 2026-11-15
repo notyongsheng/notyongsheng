@@ -3,8 +3,6 @@
 
 Hey! I'm **Yong Sheng**, a Data Science and Analytics undergraduate at the National University of Singapore.
 
-I'm curious about how data helps us make sense of the world. I enjoy uncovering patterns, exploring the stories behind them, and turning complex findings into insights that people can actually use.
-
 Welcome to my little corner of GitHub, where I share my personal projects, coursework and explorations in data science!
 
 I'm currently **open to internship opportunities** in data science, analytics and machine learning.
